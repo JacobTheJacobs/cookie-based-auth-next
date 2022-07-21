@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(243, 224, 103);
+    padding: 1em;
+}
+  
+.jumbotron {
+   background-image: linear-gradient(to right, rgb(231, 185, 70), rgb(243, 224, 103));
+    color: #fff;
+    height: 3em;
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: bold;
+    padding: 0.9em;
+    margin-bottom: 0.5em;
+    color: rgb(89, 89, 89);
+    border-radius: 5px;
+    box-shadow: 0px 0px 3px 0px rgba(113, 113, 113, 0.75);
+    margin: 0.5em;
+  }
+
+
+  .container {
+    box-shadow: 0px 0px 3px 0px rgba(113, 113, 113, 0.75);
+    padding: 2em;
+    margin: 0.5em;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+
+
+  }
+  
+  .center{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
