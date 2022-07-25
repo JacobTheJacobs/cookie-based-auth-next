@@ -2,9 +2,8 @@ function HomePage() {
     return (
         <div>
             <h1 className="jumbotron text-center bg-primary square">
-                Online Education Marketplace
+                Online Auth
             </h1>
-            <p>from next js...</p>
         </div>
     );
 }

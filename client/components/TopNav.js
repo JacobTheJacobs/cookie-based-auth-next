@@ -97,6 +97,7 @@ const TopNav = () => {
 
             {user !== null && (
                 <SubMenu
+                    key="/dashboard"
                     icon={<CoffeeOutlined />}
                     title={user && user.name}
                     className="float-right"
